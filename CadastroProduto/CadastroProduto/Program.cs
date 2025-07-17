@@ -9,6 +9,8 @@ namespace CadastroProduto
 
             while (true)
             {
+                //Ola
+
                 Console.Write("Digite o nome do Produto: ");
                 string? nome = Console.ReadLine();
                 Console.WriteLine();

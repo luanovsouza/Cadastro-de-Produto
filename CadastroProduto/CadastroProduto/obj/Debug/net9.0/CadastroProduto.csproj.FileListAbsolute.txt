@@ -1,0 +1,15 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\bin\Debug\net9.0\CadastroProduto.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\bin\Debug\net9.0\CadastroProduto.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\bin\Debug\net9.0\CadastroProduto.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\bin\Debug\net9.0\CadastroProduto.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\bin\Debug\net9.0\CadastroProduto.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.sourcelink.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\refint\CadastroProduto.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\CadastroProduto.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Desafios para treinar\Cadastro-de-Produto\CadastroProduto\CadastroProduto\obj\Debug\net9.0\ref\CadastroProduto.dll
